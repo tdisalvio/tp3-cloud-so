@@ -1,0 +1,10 @@
+{
+  "name": "TP3 Fedora Cloud",
+  "image": "fedora:latest",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
